@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ascendence - MMORPG</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Mundo de Ascendence</h1>
+        <nav>
+            <ul>
+                <li><a href="#historia">História</a></li>
+                <li><a href="#classes">Classes</a></li>
+                <li><a href="#ranking">Ranking</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="historia">
+        <h2>História do Jogo</h2>
+        <p>A terra de Eldoria foi outrora governada pelos antigos deuses, que concederam aos mortais o dom do poder arcano...</p>
+    </section>
+    
+    <section id="classes">
+        <h2>Classes Jogáveis</h2>
+        <ul>
+            <li><strong>Guerreiro:</strong> Especialista em combate corpo a corpo.</li>
+            <li><strong>Mago:</strong> Mestre dos elementos.</li>
+            <li><strong>Arqueiro:</strong> Preciso e letal.</li>
+            <li><strong>Assassino:</strong> Rápido e furtivo.</li>
+        </ul>
+    </section>
+    
+    <section id="ranking">
+        <h2>Ranking dos Melhores Jogadores</h2>
+        <p>Top 10 jogadores das classes Guerreiro, Mago, Arqueiro e Assassino.</p>
+    </section>
+    
+    <section id="contato">
+        <h2>Fale Conosco</h2>
+        <p>Email: suporte@ascendence.com</p>
+        <p>Discord: <a href="#">Link do Servidor</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Ascendence MMORPG. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
